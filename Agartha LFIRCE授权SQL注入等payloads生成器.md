@@ -1,6 +1,6 @@
 # [Agartha LFI|RCE|授权|SQL注入等payloads生成器](https://www.ddosi.org/agartha/)
 
-2023-04-11本文共 64078 字阅读完需 255 分钟
+来源：https://www.ddosi.org/agartha/
 
 > Agartha LFI|RCE|Auth|SQL注入等payloads生成器,Agartha 是一种渗透测试工具(BurpSuite 插件)，可创建动态负载列表和用户访问矩阵以揭示注入缺陷和身份验证/授权问题。 Agartha 创建了运行时、系统和供应商中立的有效载荷
 
